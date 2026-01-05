@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+python-socketio
+opencv-python-headless
+numpy
+requests
+python-dotenv
+aiohttp
